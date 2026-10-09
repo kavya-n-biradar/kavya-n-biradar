@@ -4,7 +4,7 @@ B.Tech graduate (2026) in Electronics & Computer Engineering.
 I enjoy building web projects and IoT systems, and I'm looking for entry-level and internship roles where I can keep learning.
 
 ## 🔧 Projects
-- **Personal Portfolio Website**: my portfolio site built with HTML, CSS and JavaScript
+- **Personal Portfolio Website : https://kavya-n-biradar.github.io/personal-portfolio**: my portfolio site built with HTML, CSS and JavaScript
 - **Responsive Landing Page**: a landing page that adapts to mobile, tablet and desktop screens
 - **Simple Calculator**: a web calculator that performs basic arithmetic operations
 
